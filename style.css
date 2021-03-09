@@ -32,6 +32,10 @@ p {
     background-color: #f5f5f5;
 }
 
+.avatar {
+    margin: 0 auto;
+}
+
 .photo {
     width: 150px;
     border-radius: 100px;
