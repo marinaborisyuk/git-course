@@ -1,0 +1,159 @@
+body {
+	font-family: 'Karla', sans-serif;
+    background-color: #E5E5E5;
+	color: #201b2d;
+	font-size: 15.5px;
+	margin: 0;
+	padding: 0;
+}
+
+div, p, input, button, form, span, a, ul, li {
+	box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+}
+
+p {
+	line-height: 1.65em;
+}
+
+.page, .footer {
+    width: 880px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.gray-block {
+    width: 260px;
+    background-color: #f5f5f5;
+}
+
+.photo {
+    width: 150px;
+    border-radius: 100px;
+    margin: 40px 55px;
+}
+
+.container {
+    margin: 10px 20px;
+}
+
+.title {
+    border-bottom: 2px solid #808080;
+}
+
+.skills {
+    padding-left: 20px;
+}
+
+.white-block {
+    background-color: white;
+    width: 620px;
+    margin: 0 auto;
+    padding: 40px 0;;
+}
+
+.name {
+    font-size: 46px;
+}
+
+.profession {
+    padding: 15px 5px;
+    font-size: 20px;
+}
+
+.contacts {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 20px;
+}
+
+.contact-img {
+    width: 17px; 
+}
+
+.profile-name {
+    text-decoration: none;
+    color: #201b2d;
+    font-size: 16px;
+}
+
+.education {
+    margin-top: 44px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.institution {
+    margin: auto 0;
+    padding-left: 10px;
+}
+
+.inst-info {
+    width: 405px;
+    padding: 0 15px;    
+}
+
+.cover .lang-skill {
+    margin: 15px 0;
+}
+
+.lang-skill h5 {
+    margin: 7px 0;
+}
+
+.progress-line {
+    position: relative;
+    height: 10px;
+    width: 200px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.5), 
+                      0 1px rgba(255, 255, 255, 0.8);
+}
+
+.a2 {
+    height: 100%;
+    width: 50%;
+    background-color: dimgray;
+    position: absolute;
+    border-radius: 10px;
+}
+
+.b1 {
+    height: 100%;
+    background-color: dimgray;
+    position: absolute;
+    border-radius: 10px;
+    width: 75%;   
+}
+
+.footer {
+    background-color: #f0f0f0;
+} 
+
+.footer-container {
+    width: 100%;
+    margin: 40px 20px 0 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.git-img  {
+    width: 30px;
+}
+
+.rs-img {
+    width: 90px;
+}
+.contact-container p {
+    font-size: 12px;
+}

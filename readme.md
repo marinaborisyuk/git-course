@@ -1,3 +1,1 @@
-# Git and Github Course
-
-Crash Course for Git
+[CV](https://marinaborisyuk.github.io/rsschool-cv/cv) 
